@@ -1,0 +1,3 @@
+/home/jorge/GitHub/POO2_TEO/cs1103-pointer-func-jorgecollazos/build/CMakeFiles/rebuild_cache.dir
+/home/jorge/GitHub/POO2_TEO/cs1103-pointer-func-jorgecollazos/build/CMakeFiles/cs1103-pointer-func-jorgecollazos.dir
+/home/jorge/GitHub/POO2_TEO/cs1103-pointer-func-jorgecollazos/build/CMakeFiles/edit_cache.dir

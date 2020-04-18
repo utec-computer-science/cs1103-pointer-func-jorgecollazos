@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/cs1103-pointer-func-jorgecollazos.dir/src/main.cpp.o  -o cs1103-pointer-func-jorgecollazos 

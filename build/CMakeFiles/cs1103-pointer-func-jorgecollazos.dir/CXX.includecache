@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jorge/GitHub/POO2_TEO/cs1103-pointer-func-jorgecollazos/src/main.cpp
+iostream
+-
+stdlib.h
+-
+time.h
+-
+
